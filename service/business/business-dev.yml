@@ -1,11 +1,2 @@
 business:
-  info: Business MS
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: create-drop
-  datasource:
-    url: jdbc:postgresql://localhost:5432/db_name
-    username: rathana
-    password: 1234
-    driver-class-name: org.postgresql.Driver
+  info: Business MS rathana
